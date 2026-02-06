@@ -11,6 +11,6 @@ npm install
 Create a .env file in the root.
 
 Code snippet:
-# Google AI Studio API Key
+### Google AI Studio API Key
 ```
 NEXT_PUBLIC_GEMINI_API_KEY=your_secret_api_key_here
